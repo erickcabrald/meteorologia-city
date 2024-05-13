@@ -1,3 +1,3 @@
 Praticando o uso de apis.
 
-Esta pequena aplicação ques procurarar pelas cidades e exibira informações sobre seu clima
+Esta pequena aplicação  procurarar pelas cidades e exibira informações sobre seu clima
